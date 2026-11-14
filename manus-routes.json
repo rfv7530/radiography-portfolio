@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "path": "/radiography-portfolio/"
+    },
+    {
+      "path": "/radiography-portfolio/about-me"
+    },
+    {
+      "path": "/radiography-portfolio/graduate-qualities"
+    },
+    {
+      "path": "/radiography-portfolio/graduate-qualities/inventiveness"
+    },
+    {
+      "path": "/radiography-portfolio/graduate-qualities/influence"
+    },
+    {
+      "path": "/radiography-portfolio/graduate-qualities/cultural-competence"
+    },
+    {
+      "path": "/radiography-portfolio/learning-skills"
+    },
+    {
+      "path": "/radiography-portfolio/learning-skills/reflection"
+    },
+    {
+      "path": "/radiography-portfolio/learning-skills/judgement"
+    },
+    {
+      "path": "/radiography-portfolio/learning-skills/independent-learning"
+    },
+    {
+      "path": "/radiography-portfolio/mrpba-capabilities"
+    },
+    {
+      "path": "/radiography-portfolio/mrpba-capabilities/domain-1"
+    },
+    {
+      "path": "/radiography-portfolio/mrpba-capabilities/domain-2"
+    },
+    {
+      "path": "/radiography-portfolio/mrpba-capabilities/domain-3"
+    },
+    {
+      "path": "/radiography-portfolio/contact-me"
+    },
+    {
+      "path": "/radiography-portfolio/editor"
+    }
+  ]
+}
